@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Che Chang",
+    "name": "Che (Randy) Chang",
     "label": "PhD student",
     "email": "che.chang@wisc.edu",
     "url": "https://randy1005.github.io",
@@ -53,6 +53,13 @@
       "startDate": "2022-05",
       "endDate": "2022-08",
       "summary": "Developed and debugged a constraint solving tool"
+    },
+    {
+      "name": "Collins Aerospace",
+      "position": "Software Testing Intern",
+      "startDate": "2021-02",
+      "endDate": "2021-12",
+      "summary": "Developed a automated test planning system which schedules the regression tests for QA engineers"
     }
   ],
 
@@ -71,13 +78,13 @@
     },
     { 
       "name": "QSat: Quick SAT solving",
-      "summary": "Devloped a light-weight SAT solver with boolean constraint propagation, conflict-driven clause learning, andgeometric restarts",
+      "summary": "Developed a light-weight SAT solver with boolean constraint propagation, conflict-driven clause learning, andgeometric restarts",
       "startDate": "2021-09",
       "endDate": "2022-02"
     },
     {
       "name": "Mini 2D Game Engine",
-      "summary": "Developed a concurrent job system which achives over 4 times speedup over the baseline when generating large amounts of game objects",
+      "summary": "Developed a concurrent job system which achieved over 4 times speedup over the baseline when generating large amounts of game objects",
       "startDate": "2021-08",
       "endDate": "2021-12"
     }
