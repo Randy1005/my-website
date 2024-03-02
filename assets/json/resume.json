@@ -2,14 +2,13 @@
   "basics": {
     "name": "Che Chang",
     "label": "PhD student",
-    "image": "",
     "email": "che.chang@wisc.edu",
     "url": "https://randy1005.github.io",
     "location": {
       "address": "EH 3605, 1415 Engineering Dr.",
       "postalCode": "WI 53706",
       "city": "Madison",
-      "countryCode": "US",
+      "countryCode": "US"
     }
   },
   "work": [
