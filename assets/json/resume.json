@@ -11,15 +11,6 @@
       "countryCode": "US"
     }
   },
-  "work": [
-    {
-      "name": "Intel",
-      "position": "Software Engineering Intern",
-      "startDate": "2022-05",
-      "endDate": "2022-08",
-      "summary": "Developed and debugged a constraint solving tool"
-    }
-  ],
   "education": [
     {
       "institution": "University of Wisconsin, Madison",
@@ -39,7 +30,7 @@
     },
     {
       "institution": "University of Utah",
-      "location": "Salt Lake CIty, UT, USA",
+      "location": "Salt Lake CIty, UT",
       "studyType": "MS in Entertainment Arts and Engineering",
       "startDate": "2020-08",
       "endDate": "2022-05",
@@ -55,19 +46,16 @@
     }
 
   ],
-  "certificates": [
+  "work": [
     {
-      "name": "Young Fellow",
-      "date": "2021",
-      "issuer": "58th Design Automation Conference"
-    },
-    {
-      "name": "Young Fellow",
-      "date": "2023",
-      "issuer": "60th Design Automation Conference"
+      "name": "Intel",
+      "position": "Software Engineering Intern",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "Developed and debugged a constraint solving tool"
     }
-
   ],
+
   "publications": [
     {
       "name": "Ink: Efficient Incremental k-Critical Path Generation",
@@ -94,6 +82,20 @@
       "endDate": "2021-12"
     }
   ],
+  "certificates": [
+    {
+      "name": "Young Fellow",
+      "date": "2021",
+      "issuer": "58th Design Automation Conference"
+    },
+    {
+      "name": "Young Fellow",
+      "date": "2023",
+      "issuer": "60th Design Automation Conference"
+    }
+
+  ],
+
   "skills": [
     {
       "name": "C++"
