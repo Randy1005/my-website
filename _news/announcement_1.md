@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "Ink: Efficient k-Critical Path Generation" is accepted by 2024
+ACM/IEEE Design Automation Conference (DAC)! Big thanks to all the contributors
+:grinning:

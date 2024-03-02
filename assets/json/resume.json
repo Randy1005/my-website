@@ -10,11 +10,7 @@
       "postalCode": "WI 53706",
       "city": "Madison",
       "countryCode": "US",
-    },
-    "profiles": [
-      {
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -22,7 +18,7 @@
       "position": "Software Engineering Intern",
       "startDate": "2022-05",
       "endDate": "2022-08",
-      "summary": "Participated in developing and debugging a constraint solving tool",
+      "summary": "Participated in developing and debugging a constraint solving tool"
     }
   ],
   "education": [
@@ -64,23 +60,24 @@
     {
       "name": "Young Fellow",
       "date": "2021",
-      "issuer": "58th Design Automation Conference",
+      "issuer": "58th Design Automation Conference"
     },
     {
       "name": "Young Fellow",
       "date": "2023",
-      "issuer": "60th Design Automation Conference",
-    },
+      "issuer": "60th Design Automation Conference"
+    }
 
   ],
   "publications": [
     {
       "name": "Ink: Efficient Incremental k-Critical Path Generation",
-      "publisher": "2024 ACM/IEEE Design Automation Conference (DAC)",
-    },
-    "skills": [
+      "publisher": "2024 ACM/IEEE Design Automation Conference (DAC)"
+    }
+  ],
+  "skills": [
     {
-      "name": "C++",
+      "name": "C++"
     }
   ]
 }
