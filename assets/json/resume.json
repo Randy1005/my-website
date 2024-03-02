@@ -17,13 +17,13 @@
       "position": "Software Engineering Intern",
       "startDate": "2022-05",
       "endDate": "2022-08",
-      "summary": "Participated in developing and debugging a constraint solving tool"
+      "summary": "Developed and debugged a constraint solving tool"
     }
   ],
   "education": [
     {
       "institution": "University of Wisconsin, Madison",
-      "location": "Madison, WI, USA",
+      "location": "Madison, WI",
       "studyType": "PhD in Electrical and Computer Engineering",
       "startDate": "2023-08",
       "endDate": "",
@@ -31,7 +31,7 @@
     },
     {
       "institution": "University of Utah",
-      "location": "Salt Lake CIty, UT, USA",
+      "location": "Salt Lake CIty, UT",
       "studyType": "PhD in Electrical and Computer Engineering",
       "startDate": "2022-01",
       "endDate": "2023-08",
@@ -72,6 +72,26 @@
     {
       "name": "Ink: Efficient Incremental k-Critical Path Generation",
       "publisher": "2024 ACM/IEEE Design Automation Conference (DAC)"
+    }
+  ],
+  "projects":[
+    {
+      "name": "Ink: Efficient Incremental k-Critical Path Generation",
+      "summary": "Developed a fast incremental critical path generation algorithm which achieved over 20 times speedup over the baseline algorithm",
+      "startDate": "2023-03",
+      "endDate": "2023-12"
+    },
+    { 
+      "name": "QSat: Quick SAT solving",
+      "summary": "Devloped a light-weight SAT solver with boolean constraint propagation, conflict-driven clause learning, andgeometric restarts",
+      "startDate": "2021-09",
+      "endDate": "2022-02"
+    },
+    {
+      "name": "Mini 2D Game Engine",
+      "summary": "Developed a concurrent job system which achives over 4 times speedup over the baseline when generating large amounts of game objects",
+      "startDate": "2021-08",
+      "endDate": "2021-12"
     }
   ],
   "skills": [
