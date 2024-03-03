@@ -67,6 +67,10 @@
     {
       "name": "Ink: Efficient Incremental k-Critical Path Generation",
       "publisher": "2024 ACM/IEEE Design Automation Conference (DAC)"
+    },
+    {
+      "name": "G-PASTA: GPU-Accelerated Partitioning Algorithm for Static Timing Analysis",
+      "publisher": "2024 ACM/IEEE Design Automation Conference (DAC)"
     }
   ],
   "projects":[
