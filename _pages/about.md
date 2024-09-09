@@ -18,6 +18,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 I am a third-year PhD student at the Department of Electrical and Computer
 Engineering, University of Wisconsin, Madison.
 My research focuses on electronic design automation (EDA) algorithms and high
