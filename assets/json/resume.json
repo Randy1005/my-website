@@ -47,6 +47,13 @@
   ],
   "work": [
     {
+      "name": "Google DeepMind",
+      "position": "Student Researcher",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Accelerated the EDA team's in-house timer by up to 20x with timing data caching"    
+    },
+    {
       "name": "Intel",
       "position": "Software Engineering Intern",
       "startDate": "2022-05",
@@ -58,7 +65,7 @@
       "position": "Software Testing Intern",
       "startDate": "2021-02",
       "endDate": "2021-12",
-      "summary": "Developed a automated test planning system which schedules the regression tests for QA engineers"
+      "summary": "Developed an automated test planning system which schedules the regression tests for QA engineers"
     }
   ],
 
